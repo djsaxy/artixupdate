@@ -6,7 +6,8 @@ readme is to do list
 - list news
 - update pacman
 - update aur
-- check orphan packages
-- check cached packages
-- check pending kernel update
-- check needed service restart
+- check orphan packages with prompt
+- check cached packages with prompt
+- check pending kernel update with prompt
+- check needed service restart with prompt
+- pause on errors
