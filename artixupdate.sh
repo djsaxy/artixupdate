@@ -3,8 +3,9 @@
 # List news
 
 
-# Run pacman and AUR updates
-yay -Syu
+# Run pacman updates
+doas pacman -Syu
+# or yay -Syu if aur is used
 
 # Check orphan packages with prompt to delete?
 
