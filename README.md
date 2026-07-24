@@ -8,7 +8,7 @@ not functional
 readme is to do list
 - list news
 - update pacman
-- update aur
+- update aur - currently not using any aur
 - check orphan packages with prompt
 - check cached packages with prompt
 - check pending kernel update with prompt
